@@ -1,4 +1,4 @@
-#  
+#  مخصص bee swarm simulator سكربت هو أفضل bee swarm simulator سكربت مع توجيه آلي و ESP. آمن، موثوق، ومُحَسّن لأقصى أداء.
 
 
 
